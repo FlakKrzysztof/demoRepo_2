@@ -3,9 +3,6 @@
 Some text
 Some more text
 Another part of new added text
-d
-d
-d
-d
-d
-d
+
+## Part of the featureBranch only
+1. Remember to switch branches when neccessary.
