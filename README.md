@@ -11,3 +11,6 @@ ranch
 ## Local development
 
 1. Open index.html in your browser.
+
+## Part of the featureBranch only
+1. Remember to switch branches when neccessary.
