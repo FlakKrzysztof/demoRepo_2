@@ -6,6 +6,8 @@ Another part of new added text
 d
 d
 d
-d
-d
-d
+ranch
+
+## Local development
+
+1. Open index.html in your browser.
